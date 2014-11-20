@@ -9,3 +9,4 @@ public class cameraScript : MonoBehaviour {
 		transform.position= new Vector3(player.position.x+3,0,-10);
 	}
 }
+//This code makes the Camera keep going right.
